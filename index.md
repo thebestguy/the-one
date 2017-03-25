@@ -17,10 +17,10 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+c-strig
 1. Numbered
 2. List
-
+rect
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
